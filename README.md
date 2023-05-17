@@ -1,6 +1,6 @@
 
 
-<img align="right" alt="GIF" src="https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47j6bm8je1jaiho7gve8nk58nkox8iwg9ygbp15hf4&rid=giphy.gif&ct=g  " width="150px" />
+<img align="right" alt="GIF" src="novaa.jpg " width="260px" />
 
 ### Hi there 👋We are computer engineers from NovaShine Software team
 
@@ -16,7 +16,7 @@
 <br />
 
 [gmail]: mailto:novashinesoftware@gmail.com
-
+<br>
 ### 🔧 Languages and Tools:
 <a href="https://www.php.net/"><img align="left" width="50" src="https://www.svgrepo.com/show/303208/php-1-logo.svg" /></a>
 <img align="left" width="50" src="https://www.un.org/sites/un2.un.org/files/2021/04/android-logo.svg"/>
@@ -34,7 +34,6 @@
 <a href="https://www.javascript.com/"><img align="left" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" /></a>
 <br>
 
-[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
 
 <br>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NovaShineSoftware&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
